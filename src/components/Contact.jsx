@@ -46,7 +46,7 @@ const Contact = () => {
               <ContactInfo
                 icon={<MapPin className="h-6 w-6 text-primary" />}
                 title="Location"
-                content="Lagos, Nigeria"
+                content="Akure, Nigeria"
               />
             </div>
           </div>
